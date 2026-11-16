@@ -1,0 +1,23 @@
+columna,tipo,origen,nulos
+age,float64,original,0
+hypertension,int64,original,0
+heart_disease,int64,original,0
+avg_glucose_level,float64,original,0
+bmi,float64,original,0
+stroke,int64,original,0
+gender_Female,int64,derivada de gender,0
+gender_Male,int64,derivada de gender,0
+gender_Other,int64,derivada de gender,0
+work_type_Govt_job,int64,derivada,0
+work_type_Never_worked,int64,derivada,0
+work_type_Private,int64,derivada,0
+work_type_Self_employed,int64,derivada,0
+work_type_children,int64,derivada,0
+smoking_status_Unknown,int64,derivada,0
+smoking_status_formerly_smoked,int64,derivada,0
+smoking_status_never_smoked,int64,derivada,0
+smoking_status_smokes,int64,derivada,0
+Residence_type_Rural,int64,derivada,0
+Residence_type_Urban,int64,derivada,0
+ever_married_No,int64,derivada,0
+ever_married_Yes,int64,derivada,0

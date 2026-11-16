@@ -1,0 +1,7 @@
+figura,hallazgo,evidencia
+fig1_clase_positiva,La clase positiva es escasa,"4,87 % de ACV (249 de 5110)"
+fig2_faltantes_imc,Los faltantes de IMC no son aleatorios,"19,9 % de ACV sin IMC frente a 4,3 % con IMC"
+fig3_edad,La edad es el factor con mayor asociación,"0,2 % entre 0 y 17 años frente a 21,5 % desde los 80"
+fig4_hipertension_por_edad,La hipertensión se asocia al ACV a igual edad,"Bruto 13,3 % frente a 4,0 %; la diferencia persiste en ambos grupos de edad"
+fig5_glucosa,La glucosa en rango de diabetes casi triplica la tasa,"10,2 % frente a 3,6 % con glucosa normal"
+fig6_asociacion_espuria,El estado civil es una asociación espuria,La diferencia bruta se reduce o invierte al separar por edad

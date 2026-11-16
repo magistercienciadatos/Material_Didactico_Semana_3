@@ -1,0 +1,13 @@
+orden,paso,parametros
+1,EliminadorColumnas(id),{'existe': True}
+2,ImputadorMediana(age),"{'mediana': 45.0, 'nulos_en_ajuste': 0}"
+3,ImputadorMediana(avg_glucose_level),"{'mediana': 92.21, 'nulos_en_ajuste': 0}"
+4,ImputadorMediana(bmi),"{'mediana': 28.1, 'nulos_en_ajuste': 164}"
+5,CodificadorNominal(gender),"{'categorias': ['Female', 'Male', 'Other']}"
+6,CodificadorNominal(work_type),"{'categorias': ['Govt_job', 'Never_worked', 'Private', 'Self-employed', 'children']}"
+7,CodificadorNominal(smoking_status),"{'categorias': ['Unknown', 'formerly smoked', 'never smoked', 'smokes']}"
+8,CodificadorNominal(Residence_type),"{'categorias': ['Rural', 'Urban']}"
+9,CodificadorNominal(ever_married),"{'categorias': ['No', 'Yes']}"
+10,EscaladorEstandar(age),"{'media': 43.46493150684932, 'desviacion': 22.560095943716195}"
+11,EscaladorEstandar(avg_glucose_level),"{'media': 106.43448140900195, 'desviacion': 45.39519660329138}"
+12,EscaladorEstandar(bmi),"{'media': 28.90968688845401, 'desviacion': 7.657641321839962}"

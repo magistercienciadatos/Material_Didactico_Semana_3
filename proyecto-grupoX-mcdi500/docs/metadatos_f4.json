@@ -1,0 +1,26 @@
+{
+  "fase": "F4",
+  "fecha_ejecucion": "2026-11-16",
+  "semilla": 42,
+  "python": "3.13.18",
+  "dependencias": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "matplotlib": "3.11.2"
+  },
+  "entradas": [
+    "data/processed/entrenamiento_f3.csv",
+    "data/processed/prueba_f3.csv",
+    "data/processed/diccionario_f3.csv",
+    "data/processed/parametros_f3.csv"
+  ],
+  "figuras": [
+    "F4/figuras/fig1_clase_positiva.png",
+    "F4/figuras/fig2_faltantes_imc.png",
+    "F4/figuras/fig3_edad.png",
+    "F4/figuras/fig4_hipertension_por_edad.png",
+    "F4/figuras/fig5_glucosa.png",
+    "F4/figuras/fig6_asociacion_espuria.png"
+  ],
+  "controles_superados": 9
+}
